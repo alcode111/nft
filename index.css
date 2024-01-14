@@ -11,7 +11,7 @@ header {
 }
 
 section {
-    margin: 0;
+    padding: 45px 0;
 }
 
 h1 {
@@ -19,6 +19,11 @@ h1 {
     font-size: 36px;
     margin: 0;
     
+}
+
+h2 {
+    font-size: 26px;
+    margin-top: 0;
 }
 
 h3 {
