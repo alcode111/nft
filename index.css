@@ -30,7 +30,7 @@ h3 {
 
 /* Layout */
 
-section, header {
+section, header, footer {
     padding: 45px 0;
 }
 
@@ -47,6 +47,14 @@ header {
     margin: 0 auto;
 }
 
+.section-two {
+    background-color: #5F29A3;
+    color: whitesmoke;
+}
+
+footer {
+    text-align: center;
+}
 
 /* Links */
 
